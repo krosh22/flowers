@@ -394,7 +394,9 @@ text-align: right;
     padding-bottom: 50px;
 
 }
-
+.card-img {
+    height: 78px;
+}
 
 
 .header-descriptions {
