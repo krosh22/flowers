@@ -20,9 +20,7 @@ const flowersSlider = new Swiper('.flowers-slider', {
         480: {
             slidesPerView: 3,
         },
-        576: {
-            slidesPerView: 4,
-        },
+
         992: {
             slidesPerView: 6,
         }
