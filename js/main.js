@@ -30,6 +30,7 @@ const flowersSlider = new Swiper('.flowers-slider', {
 
 
 
+((
 
 const reviewsSlider = new Swiper('.reviews-slider', {
     // Optional parameters
@@ -56,3 +57,5 @@ const reviewsSlider = new Swiper('.reviews-slider', {
         }
     }
 });
+
+))

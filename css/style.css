@@ -438,8 +438,8 @@ text-align: right;
     }
 
     .review-slide {
-        margin-left: 50px;
-        margin-right: 80px;
+        margin-left: auto;
+        margin-right: 150px;
     }
 }
 .review-slide {
