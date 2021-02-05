@@ -8,7 +8,28 @@ const flowersSlider = new Swiper('.flowers-slider', {
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
     },
+
+
+
+
+    breakpoints: {
+
+        320: {
+            slidesPerView: 2,
+        },
+        480: {
+            slidesPerView: 3,
+        },
+        576: {
+            slidesPerView: 4,
+        },
+        992: {
+            slidesPerView: 6,
+        }
+    }
 });
+
+
 
 
 
