@@ -384,15 +384,21 @@ vertical-align: bottom;
     font-weight: 500;
     display: block;
     margin-bottom: 12px;
+
 }
 .footer-label {
     display: block;
     font-size: 14px;
     font-weight: normal;
 
+
+}
+.footer-table {
+
+    display: block;
 }
 .footer-info {
-text-align: right;
+
 }
 
 .footer2 {
@@ -436,16 +442,39 @@ text-align: right;
         font-style: 16px;
         line-height: 1.6;
     }
+    .footer-info {
+        text-align: left;
 
-    .review-slide {
-        margin-left: auto;
-        margin-right: 150px;
     }
-}
-.review-slide {
-    margin-left: 54px;
+    .footer-label {
+        text-align: left;
+    }
+    .footer-phone {
+        text-align: left;
+    }
+    .footer-table{
+        text-align: left;
+    }
+    .offer-phone {
+        font-size: 20px;
+    }
+    .offer-link {
+        font-size: 24px;
+    }
+    .offer-label {
+        margin-top: 20px;
+    }
+    .section-title1 {
+        font-size: 20px;
+    }
+
 }
 
+
+
+.footer-info {
+    text-align: right;
+}
 
 
 

@@ -30,7 +30,6 @@ const flowersSlider = new Swiper('.flowers-slider', {
 
 
 
-((
 
 const reviewsSlider = new Swiper('.reviews-slider', {
     // Optional parameters
@@ -43,19 +42,4 @@ const reviewsSlider = new Swiper('.reviews-slider', {
         prevEl: '.swiper-button-prev',
 
     },
-    breakpoints: {
-
-        320: {
-            slidesPerView: 1,
-        },
-        480: {
-            slidesPerView:1,
-        },
-
-        992: {
-            slidesPerView: 1,
-        }
-    }
 });
-
-))
