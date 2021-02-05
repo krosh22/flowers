@@ -417,26 +417,36 @@ text-align: right;
     .header {
         text-align: center;
     }
+
     .header-contacts {
         text-align: center;
     }
+
     .hero {
         padding-top: 50px;
     }
+
     .hero-title {
         font-size: 24px;
         margin-bottom: 20px;
         line-height: 1.6;
     }
+
     .header-description {
         font-style: 16px;
         line-height: 1.6;
     }
-    .review-slide {
 
-        margin-left: 235px;
+    .review-slide {
+        margin-left: 50px;
+        margin-right: 124px;
     }
 }
+.review-slide {
+    margin-left: 54px;
+}
+
+
 
 
 
